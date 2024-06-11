@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+}
+.box{
+    border:1px solid lightskyblue;
+    width:350px;
+    padding:16px;
+    margin: 70px auto;
+    border-radius: 21px;
+    font-family:'Times New Roman', Times, serif ;
+    
+}
+.bg{
+    background-color: blue;
+    width: 750px;
+    margin: 30px auto;
+    color:antiquewhite;
+    padding: 120px 50px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    background-color: beige;
+    padding:15px 30px;
+    border:none;
+    font-size: x-large;
+    borer border-radius: 60px;
+}
